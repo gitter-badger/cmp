@@ -1,5 +1,7 @@
 # Customer Messaging Platform
 
+[![Join the chat at https://gitter.im/webod/cmp](https://badges.gitter.im/webod/cmp.svg)](https://gitter.im/webod/cmp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The customer messaging platform is under active development.
 
 ## Contributing
