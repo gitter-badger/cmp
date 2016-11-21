@@ -4,6 +4,12 @@ The customer messaging platform is under active development.
 
 ## Todo
 
+- [ ] Model conversation.
+- [ ] Add identity concept for agents.
+- [ ] Create JavaScript widget for customers to talk to agents.
+- [ ] Ability to allow customers to leave e-mail address for you to get back to them.
+- [ ] Have JavaScript widget to ask for help after X minutes on a specific path.
+- [ ] Provide analytics.
 
 ## Contributing
 
